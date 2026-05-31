@@ -1,0 +1,19 @@
+{
+    "cv": "CV",
+    "fName": "Raigo",
+    "lName": "asd",
+    "age": 20,
+    "email": "raigo.asd@gmail.com",
+    "address": "qwert tee 10",
+    "phone": "123456789",
+    "experience": "TTK Robotiklubi 2024 - praeguseni",
+    "education": "Tallinna Tehnikakõrgkool",
+    "qualification": "Robotex 2025 HillClimb Võitja",
+    "languages": "Eesti keel - Emakeel<br>Inglise keel - B2 tase",
+    "interests": [
+        "Robootika ja elektroonika",
+        "Programmeerimine ja veebidisain",
+        "3D-printimine",
+        "Fotograafia"
+    ]
+}
